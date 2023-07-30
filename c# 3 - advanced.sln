@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "t02_01_Generics", "t02_01_G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t02_02_Delegates", "t02_02_Delegates\t02_02_Delegates.csproj", "{0769AC65-DC31-4512-8553-8CB79250EB17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t02_03_LambdaExpressions", "t02_03_LambdaExpressions\t02_03_LambdaExpressions.csproj", "{752003C1-75C5-45DF-AC35-0D497574DF6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0769AC65-DC31-4512-8553-8CB79250EB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0769AC65-DC31-4512-8553-8CB79250EB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0769AC65-DC31-4512-8553-8CB79250EB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752003C1-75C5-45DF-AC35-0D497574DF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752003C1-75C5-45DF-AC35-0D497574DF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752003C1-75C5-45DF-AC35-0D497574DF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752003C1-75C5-45DF-AC35-0D497574DF6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
