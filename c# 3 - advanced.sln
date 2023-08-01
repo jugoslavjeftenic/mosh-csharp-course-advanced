@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "t02_03_LambdaExpressions", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "t02_04_EventsAndDelegates", "t02_04_EventsAndDelegates\t02_04_EventsAndDelegates.csproj", "{D94E536D-F76D-4DA7-B4AE-2D455A678DE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t02_05_ExtensionMethods", "t02_05_ExtensionMethods\t02_05_ExtensionMethods.csproj", "{075A5448-E14A-4347-95F9-CF718BED6F4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "t02_05_ExtensionMethods", "t02_05_ExtensionMethods\t02_05_ExtensionMethods.csproj", "{075A5448-E14A-4347-95F9-CF718BED6F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t02_06_Linq", "t02_06_Linq\t02_06_Linq.csproj", "{C156F519-3DE8-43C4-9665-1CBE0CB7870F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{075A5448-E14A-4347-95F9-CF718BED6F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{075A5448-E14A-4347-95F9-CF718BED6F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{075A5448-E14A-4347-95F9-CF718BED6F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C156F519-3DE8-43C4-9665-1CBE0CB7870F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C156F519-3DE8-43C4-9665-1CBE0CB7870F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C156F519-3DE8-43C4-9665-1CBE0CB7870F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C156F519-3DE8-43C4-9665-1CBE0CB7870F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
