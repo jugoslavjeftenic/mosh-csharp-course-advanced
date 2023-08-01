@@ -50,14 +50,14 @@
             }
             Console.WriteLine();
 
-            Console.WriteLine(books.Single(b=>b.Title== "ADO.NET MVC").Title);
-            Console.WriteLine(books.First(b=>b.Title== "C# Advanced Topics").Price);
-            Console.WriteLine(books.Last(b=>b.Title== "C# Advanced Topics").Price);
+            Console.WriteLine(books.Single(b => b.Title == "ADO.NET MVC").Title);
+            Console.WriteLine(books.First(b => b.Title == "C# Advanced Topics").Price);
+            Console.WriteLine(books.Last(b => b.Title == "C# Advanced Topics").Price);
             Console.WriteLine(books.Count());
-            Console.WriteLine(books.Max(b=>b.Price));
-            Console.WriteLine(books.Min(b=>b.Price));
-            Console.WriteLine(books.Sum(b=>b.Price));
-            Console.WriteLine(books.Average(b=>b.Price));
+            Console.WriteLine(books.Max(b => b.Price));
+            Console.WriteLine(books.Min(b => b.Price));
+            Console.WriteLine(books.Sum(b => b.Price));
+            Console.WriteLine(books.Average(b => b.Price));
             Console.WriteLine();
 
             var pagedBooks = books.Skip(2).Take(3);
