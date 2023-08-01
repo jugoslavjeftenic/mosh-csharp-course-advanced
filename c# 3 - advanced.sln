@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t02_06_Linq", "t02_06_Linq\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t02_07_NullableTypes", "t02_07_NullableTypes\t02_07_NullableTypes.csproj", "{68EC6E1C-D23E-479B-ABA5-525FD67C5D37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t02_08_DynamicBinding", "t02_08_DynamicBinding\t02_08_DynamicBinding.csproj", "{205D40CD-5FF6-4731-98A5-322CCA9B5AA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{68EC6E1C-D23E-479B-ABA5-525FD67C5D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68EC6E1C-D23E-479B-ABA5-525FD67C5D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68EC6E1C-D23E-479B-ABA5-525FD67C5D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205D40CD-5FF6-4731-98A5-322CCA9B5AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205D40CD-5FF6-4731-98A5-322CCA9B5AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205D40CD-5FF6-4731-98A5-322CCA9B5AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205D40CD-5FF6-4731-98A5-322CCA9B5AA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
